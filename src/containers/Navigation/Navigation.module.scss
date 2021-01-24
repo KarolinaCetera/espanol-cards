@@ -1,6 +1,10 @@
-.nav {
-  .burger {
-    color: white;
-    font-size: 40px;
-  }
+.navigation {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  padding: 20px 0;
+  background-color: white;
 }

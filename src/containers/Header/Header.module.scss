@@ -1,0 +1,20 @@
+header {
+  background-color: #6242b0;
+  height: 10vh;
+  box-shadow: 0 4px 19px -1px rgba(0,0,0,0.29);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  .burger {
+    color: white;
+    font-size: 40px;
+  }
+  .title {
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    font-size: 30px;
+  }
+  nav {
+    position: relative;
+  }
+}

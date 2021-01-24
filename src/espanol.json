@@ -1,0 +1,902 @@
+{
+  "vocabulary": {
+      "words": [
+        {
+          "category": "Dom",
+          "spanish": "el piso",
+          "polish": "mieszkanie",
+          "exampleSpanish": "Te invito a mi piso nuevo",
+          "examplePolish": "Zapraszam cię do mojego nowego mieszkania"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el dormitorio",
+          "polish": "sypialnia",
+          "exampleSpanish": "Esta es mi dormitorio",
+          "examplePolish": "To jest moje mieszkanie"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la cocina",
+          "polish": "kuchnia",
+          "exampleSpanish": "Mamá está en la cocina",
+          "examplePolish": "Mama jest w kuchni"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el cuarto de baño",
+          "polish": "łazienka",
+          "exampleSpanish": "El cuarto de baño está al final del pasillo",
+          "examplePolish": "Łazienka jest na końcu korytarza"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el salón",
+          "polish": "salon",
+          "exampleSpanish": "Papá siempre descansa en el salón",
+          "examplePolish": "Tata zawsze odpoczywa w salonie"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la habitación",
+          "polish": "pokój",
+          "exampleSpanish": "¿Tienen una habitación individual disponible para esta noche?",
+          "examplePolish": "Czy mają państwo dostępny pokój jednoosobowy na dzisiejszą noc?"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la terraza",
+          "polish": "taras",
+          "exampleSpanish": "Nuestra nueva casa tiene una terraza enorme",
+          "examplePolish": "Nasz nowy dom ma ogromny taras"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el balcón",
+          "polish": "balkon",
+          "exampleSpanish": "En verano tomo el sol en el balcón",
+          "examplePolish": "W lecie opalam się na balkonie"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el ascensor",
+          "polish": "winda",
+          "exampleSpanish": "El ascensor no funciona",
+          "examplePolish": "Winda nie działa"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la puerta",
+          "polish": "drzwi",
+          "exampleSpanish": "¿Puedes cerrar la puerta?",
+          "examplePolish": "Czy możesz zamknąć drzwi?"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la ventana",
+          "polish": "okno",
+          "exampleSpanish": "¿Puedo abrir la ventana?",
+          "examplePolish": "Czy mogę otworzyć okno"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la pared",
+          "polish": "ściana",
+          "exampleSpanish": "En la pared hay cuatro cuadros",
+          "examplePolish": "Na ścianie są cztery obrazy"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la vivienda",
+          "polish": "mieszkanie",
+          "exampleSpanish": "En mi edificio hay dos viviendas inhabitadas",
+          "examplePolish": "W moim budynku są dwa puste mieszkania"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la planta",
+          "polish": "piętro",
+          "exampleSpanish": "Vivo en la cuarta planta",
+          "examplePolish": "Mieszkam na czwartym piętrze"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la planta baja",
+          "polish": "parter",
+          "exampleSpanish": "Pedro vive en la planta baja",
+          "examplePolish": "Pedro mieszka na czwartym piętrze"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el garaje",
+          "polish": "garaż",
+          "exampleSpanish": "No tenemos garaje, dejamoc el coche en la calle",
+          "examplePolish": "Nie mamy garażu, zostawiamy samochód na ulicy"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el desván",
+          "polish": "strych",
+          "exampleSpanish": "Guardamos los trastos en el desván",
+          "examplePolish": "Trzymamy rupiecie na strychu"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el sótano",
+          "polish": "piwnica",
+          "exampleSpanish": "Me da miedo bajar al sótano",
+          "examplePolish": "Boję się schodzić do piwnicy"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el pasillo",
+          "polish": "korytarz",
+          "exampleSpanish": "El niño ha dejado sus juguetes en el pasillo",
+          "examplePolish": "Dziecko zostawiło swoje zabawki w korytarzu"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la escalera",
+          "polish": "schody",
+          "exampleSpanish": "¿Subimos por la escalera o codemos el ascensor?",
+          "examplePolish": "Wchodzimy po schodach czy jedziemy windą?"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el suelo",
+          "polish": "podłoga",
+          "exampleSpanish": "El perro ha tirado la comida al suelo",
+          "examplePolish": "Pies wyrzucił jedzenie na podłogę"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el techo",
+          "polish": "sufit",
+          "exampleSpanish": "Vamos a colgar la lámpara en el techo",
+          "examplePolish": "Powiesimy żyrandol na suficie"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el tejado",
+          "polish": "dach",
+          "exampleSpanish": "El tejado está lleno de goteras, hay que reparario",
+          "examplePolish": "Dach jest pełen dziur, trzeba go naprawić"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la cama",
+          "polish": "łóżko",
+          "exampleSpanish": "Hay que comprar una cama de matrimonio",
+          "examplePolish": "Trzeba kupić łóżko małżeńskie"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la silla",
+          "polish": "krzesło",
+          "exampleSpanish": "En la sala hay solo una silla",
+          "examplePolish": "W sali jest tylko jedno krzesło"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la mesa",
+          "polish": "stół",
+          "exampleSpanish": "Tus gafas están en la mesa del salón",
+          "examplePolish": "Twoje okulary leżą na stole w salonie"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el sillón",
+          "polish": "fotel",
+          "exampleSpanish": "Puedes sentarte en la sillón",
+          "examplePolish": "Możesz usiąść w fotelu"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el sofá",
+          "polish": "Kanapa",
+          "exampleSpanish": "El televisor está enfrente del sofá",
+          "examplePolish": "Telewizor jest naprzeciwko kanapy"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el armario",
+          "polish": "szafa",
+          "exampleSpanish": "Guardamos toda la ropa en un armario",
+          "examplePolish": "Wszystkie ubrania przechowujemy w jednej szafie"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el escritorio",
+          "polish": "biurko",
+          "exampleSpanish": "De quien es este escritorio?",
+          "examplePolish": "Czyje jest to biurko?"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la estaneria",
+          "polish": "regał",
+          "exampleSpanish": "Hay muchos libros en la estaneria",
+          "examplePolish": "Na regale stoi dużo książek"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el espejo",
+          "polish": "lustro",
+          "exampleSpanish": "Me peino enfente del espejo",
+          "examplePolish": "Czeszę się przed lustrem"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el mueble",
+          "polish": "dach",
+          "exampleSpanish": "Esta tienda tiene muebles de Italia",
+          "examplePolish": "W tym sklepie są meble z Włoch"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el cuadro ",
+          "polish": "obraz",
+          "exampleSpanish": "No quiero cuadros en las paredes de mi casa",
+          "examplePolish": "Nie chcę obrazów na ścianach mojego domu"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la almohada",
+          "polish": "poduszka",
+          "exampleSpanish": "Durmió sin almohada y ahora le duele el cuello",
+          "examplePolish": "Spał bez poduszki i teraz boli go szyja"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la llave",
+          "polish": "klucz",
+          "exampleSpanish": "He perdido las llaves de mi coche",
+          "examplePolish": "Zgubiłam klucze do samochodu"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la alfombra",
+          "polish": "dywan",
+          "exampleSpanish": "La alfombra ya esta gastada, hay que comprar una nueva",
+          "examplePolish": "Dywan jest już zniszczony, trzeba kupić nowy"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el cajón",
+          "polish": "szuflada",
+          "exampleSpanish": "He sacado los documentos del cajón",
+          "examplePolish": "Wyjęłam dokumeny z szuflady"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la cortina",
+          "polish": "zasłona",
+          "exampleSpanish": "Las cortinas cubren la ventana",
+          "examplePolish": "Zasłony zakrywają okno"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la chimnea",
+          "polish": "kominek",
+          "exampleSpanish": "No usamos mucho la chimenea de nuestra casa",
+          "examplePolish": "Rzadko używamy kominka w naszym domu"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la ducha",
+          "polish": "prysznic",
+          "exampleSpanish": "Hay que arreglar la ducha porque gotea",
+          "examplePolish": "Trzeba naprawić prysznic, bo cieknie"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la bañera",
+          "polish": "wanna",
+          "exampleSpanish": "Prefiero la bañera a la ducha",
+          "examplePolish": "Wolę wannę od prysznica"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el lavabo",
+          "polish": "umywalka",
+          "exampleSpanish": "Lavamos las manos en el lavabo antes de comer",
+          "examplePolish": "Przed jedzeniem umyliśmy ręce w umywalce"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el fregadero",
+          "polish": "zlew",
+          "exampleSpanish": "Hemos dejado los platos sucios en el fregadero",
+          "examplePolish": "Zostawiliśmy brudne talerze w zlewie"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la nevera",
+          "polish": "lodówka",
+          "exampleSpanish": "No hay nada en la nevera",
+          "examplePolish": "Nie ma nic w lodówce"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el televisor",
+          "polish": "telewizor",
+          "exampleSpanish": "No necesito televisor",
+          "examplePolish": "Nie potrzebuję telewizora"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la radio",
+          "polish": "radio",
+          "exampleSpanish": "¿Puedes bajar la radio, por favor?",
+          "examplePolish": "Czy możesz przyciszyć radio"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la lavadora",
+          "polish": "pralka",
+          "exampleSpanish": "La lavadora tiene el ciclo de secado",
+          "examplePolish": "Pralka ma cykl suszenia"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el lavavajillas",
+          "polish": "zmywarka",
+          "exampleSpanish": "Se nos estropeó el lavavajillas",
+          "examplePolish": "Zepsuła nam się zmywarka"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el microondas",
+          "polish": "mikrofalówka",
+          "exampleSpanish": "Puedes calentar la leche en la microondas",
+          "examplePolish": "Możesz podgrzać mleko w mikrofalówce"
+        },
+        {
+          "category": "Dom",
+          "spanish": "el horno",
+          "polish": "piekarnik",
+          "exampleSpanish": "El pollo necesita estar cuarenta minutos en el horno",
+          "examplePolish": "Kurczak musi się piec w piekarniku przez czterdzieści minut"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la aspiradora",
+          "polish": "odkurzacz",
+          "exampleSpanish": "Compramos una nueva aspiradora",
+          "examplePolish": "Kupiliśmy nowy odkurzacz"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la plancha",
+          "polish": "żelazko",
+          "exampleSpanish": "Necesito la plancha para esta camisa",
+          "examplePolish": "Potrzebuję żelazka do tej koszuli"
+        },
+        {
+          "category": "Dom",
+          "spanish": "grande",
+          "polish": "duży",
+          "exampleSpanish": "Vivimos en una casa grande",
+          "examplePolish": "Mieszkamy w dużym domu"
+        },
+        {
+          "category": "Dom",
+          "spanish": "pequeño",
+          "polish": "mały",
+          "exampleSpanish": "Mi dormitorio es muy pequeño",
+          "examplePolish": "Moja sypialnia jest bardzo mała"
+        },
+        {
+          "category": "Dom",
+          "spanish": "cómodo",
+          "polish": "wygodny",
+          "exampleSpanish": "Estas sillas no son muy cómodas",
+          "examplePolish": "Te krzesła nie są zbyt wygodne"
+        },
+        {
+          "category": "Dom",
+          "spanish": "acogedor",
+          "polish": "przytulny",
+          "exampleSpanish": "Mi habitación es muy acogedora",
+          "examplePolish": "Mój pokój jest bardzo przytulny"
+        },
+        {
+          "category": "Dom",
+          "spanish": "propio",
+          "polish": "własny",
+          "exampleSpanish": "Mi hermana tiene su propio coche",
+          "examplePolish": "Moja siostra ma własny samochód"
+        },
+        {
+          "category": "Dom",
+          "spanish": "espacioso",
+          "polish": "przestronny",
+          "exampleSpanish": "El dormiotrio es espacioso y caben alli dos armarios",
+          "examplePolish": "Sypialnia jest przestronna i mieszczą się z niej dwie szafy"
+        },
+        {
+          "category": "Dom",
+          "spanish": "lujoso",
+          "polish": "luksusowy",
+          "exampleSpanish": "Tiene un apartamento lujoso",
+          "examplePolish": "Ma luksusowy apartament"
+        },
+        {
+          "category": "Dom",
+          "spanish": "luminoso",
+          "polish": "jasny",
+          "exampleSpanish": "Gracias a sus tres ventanas, el salón es una habitación muy luminosa",
+          "examplePolish": "Dzięki trzem oknom, salon jest bardzo jasnym pokojem"
+        },
+        {
+          "category": "Dom",
+          "spanish": "oscuro",
+          "polish": "ciemny",
+          "exampleSpanish": "La cocina de nuestra casa es oscura poque no tiene ventana",
+          "examplePolish": "Kuchnia w naszym domu jest ciemna, bo nie ma okna"
+        },
+        {
+          "category": "Dom",
+          "spanish": "ordenado",
+          "polish": "uporządkowany",
+          "exampleSpanish": "La habitación de mi hijo pocas veces esta ordenada",
+          "examplePolish": "Pokój mojego syna rzadko kiedy jest uporządkowany"
+        },
+        {
+          "category": "Dom",
+          "spanish": "vivir",
+          "polish": "mieszkać",
+          "exampleSpanish": "¿Donde vives?",
+          "examplePolish": "Gdzie mieszkasz?"
+        },
+        {
+          "category": "Dom",
+          "spanish": "alquilar",
+          "polish": "wynajmować",
+          "exampleSpanish": "Quiero alquilar un piso en el centro",
+          "examplePolish": "Chcę wynająć mieszkanie w centrum"
+        },
+        {
+          "category": "Dom",
+          "spanish": "decorar",
+          "polish": "dekorować",
+          "exampleSpanish": "No sabemos cómo decorar el salón",
+          "examplePolish": "Nie wiemy, jak udekorować salon"
+        },
+        {
+          "category": "Dom",
+          "spanish": "renovar",
+          "polish": "odnawiać",
+          "exampleSpanish": "Tienen que renovar su casa",
+          "examplePolish": "Muszą odnowić swój dom"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la ubicación",
+          "polish": "lokalizacja",
+          "exampleSpanish": "Me gusta ka ubicación de esta casa",
+          "examplePolish": "Podoba mi się lokalizacja tego mieszkania"
+        },
+        {
+          "category": "Dom",
+          "spanish": "amueblar",
+          "polish": "umeblować",
+          "exampleSpanish": "Todavia no ha amueblado su nuevo piso",
+          "examplePolish": "Jeszcze nie umeblowała swojego nowego mieszkania"
+        },
+        {
+          "category": "Dom",
+          "spanish": "mudarse",
+          "polish": "przeprowadzać się",
+          "exampleSpanish": "En dos meses por fin nos mudamos a nuestra casa",
+          "examplePolish": "Za dwa miesiące w koncu przeprowadzimy się do naszego domu"
+        },
+        {
+          "category": "Dom",
+          "spanish": "construir",
+          "polish": "budowac",
+          "exampleSpanish": "¿Por que no construimos nuestra propia casa?",
+          "examplePolish": "Może zbudujemy nasz własny dom"
+        },
+        {
+          "category": "Dom",
+          "spanish": "guardar",
+          "polish": "chować",
+          "exampleSpanish": "¿Piedes guardar la cerveza en la nevera",
+          "examplePolish": "Możesz schować piwo do lodówki?"
+        },
+        {
+          "category": "Dom",
+          "spanish": "la dirección",
+          "polish": "adres",
+          "exampleSpanish": "¿Me das tu derección?",
+          "examplePolish": "Podasz mi swój adres?"
+        },
+        {
+          "category": "Dom",
+          "spanish": "las afueras",
+          "polish": "przedmieście",
+          "exampleSpanish": "Mis amigos viven en las afueras",
+          "examplePolish": "Moi przyjaciele mieszkają na przedmieściu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "siempre",
+          "polish": "zawsze",
+          "exampleSpanish": "Siempre me levanto a las siete",
+          "examplePolish": "Zawsze wstaję o siódmej"
+        },
+        {
+          "category": "Czas",
+          "spanish": "nunca",
+          "polish": "nigdy",
+          "exampleSpanish": "Nunca hago la compra en esta tienda",
+          "examplePolish": "Nigdy nie robię zakupów w tym sklepie"
+        },
+        {
+          "category": "Czas",
+          "spanish": "a veces",
+          "polish": "czasami",
+          "exampleSpanish": "A veces pienso en ella",
+          "examplePolish": "Czasami o niej myślę"
+        },
+        {
+          "category": "Czas",
+          "spanish": "a menudo",
+          "polish": "często",
+          "exampleSpanish": "Nos visitan a menudo",
+          "examplePolish": "Często nas odwiedzają"
+        },
+        {
+          "category": "Czas",
+          "spanish": "raramente",
+          "polish": "rzadko",
+          "exampleSpanish": "Raramente llego tarde al trabajo",
+          "examplePolish": "Rzadko spóźniam się do pracy"
+        },
+        {
+          "category": "Czas",
+          "spanish": "todos los dias",
+          "polish": "codziennie",
+          "exampleSpanish": "Me lavo en pelo todos los dias",
+          "examplePolish": "Codziennie myję włosy"
+        },
+        {
+          "category": "Czas",
+          "spanish": "ahora",
+          "polish": "teraz",
+          "exampleSpanish": "¿Que quieres hacer ahora?",
+          "examplePolish": "Co chcesz teraz robić?"
+        },
+        {
+          "category": "Czas",
+          "spanish": "hoy",
+          "polish": "dzisiaj",
+          "exampleSpanish": "¿Que dia es hoy?",
+          "examplePolish": "Jaki dziś dzień?"
+        },
+        {
+          "category": "Czas",
+          "spanish": "ayer",
+          "polish": "wczoraj",
+          "exampleSpanish": "¿Recuerdas a la chica de ayer?",
+          "examplePolish": "Pamiętasz tę dziewczynę z wczoraj"
+        },
+        {
+          "category": "Czas",
+          "spanish": "mañana",
+          "polish": "jutro",
+          "exampleSpanish": "Mañana tenemos un dia libre",
+          "examplePolish": "Jutro mamy dzień wolny"
+        },
+        {
+          "category": "Czas",
+          "spanish": "cuando",
+          "polish": "kiedy",
+          "exampleSpanish": "¿Cuando es tu cumpleaños?",
+          "examplePolish": "Kiedy są twoje urodziny?"
+        },
+        {
+          "category": "Czas",
+          "spanish": "¿a que hora?",
+          "polish": "o której godzinie?",
+          "exampleSpanish": "¿A que hora es la pelicula?",
+          "examplePolish": "O której godzinie jest film?"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el dia",
+          "polish": "dzień",
+          "exampleSpanish": "El treinta y uno de diciembre es el ultimo dia del año",
+          "examplePolish": "31 grudnia to ostatni dzień roku"
+        },
+        {
+          "category": "Czas",
+          "spanish": "la mañana",
+          "polish": "rano",
+          "exampleSpanish": "¿Que haces mañana pol la mañana",
+          "examplePolish": "Co robisz jutro rano?"
+        },
+        {
+          "category": "Czas",
+          "spanish": "la tarde",
+          "polish": "popołudnie",
+          "exampleSpanish": "Podemos encontrarnos por la tarde",
+          "examplePolish": "Możemy spotkać się po południu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "la noche",
+          "polish": "noc",
+          "exampleSpanish": "En invierno las noches son mas largas",
+          "examplePolish": "Zimą noce są dłuższe"
+        },
+        {
+          "category": "Czas",
+          "spanish": "la hora",
+          "polish": "godzina",
+          "exampleSpanish": "¿Que hora es?",
+          "examplePolish": "Która jest godzina?"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el minuto",
+          "polish": "minuta",
+          "exampleSpanish": "Esta pelicula dura solo setenta minutos",
+          "examplePolish": "Ten film trwa tylko siedemdziesiąt minut"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el segundo",
+          "polish": "sekunda",
+          "exampleSpanish": "¿Puedes esperar un segundo",
+          "examplePolish": "Możesz sekundę zaczekać"
+        },
+        {
+          "category": "Czas",
+          "spanish": "temprano",
+          "polish": "wcześnie",
+          "exampleSpanish": "Hoy quiero acotrarme temprano",
+          "examplePolish": "Dzisiaj chcę się położyć wcześnie spać"
+        },
+        {
+          "category": "Czas",
+          "spanish": "tarde",
+          "polish": "późno",
+          "exampleSpanish": "Mañana puedo levantarme tarde",
+          "examplePolish": "Jutro mogę późno wstać."
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        },
+        {
+          "category": "Czas",
+          "spanish": "el tiempo",
+          "polish": "czas",
+          "exampleSpanish": "Tenemos mucho tiempo libre",
+          "examplePolish": "Mamy dużo wolnego czasu"
+        }
+      ]
+    }
+}
